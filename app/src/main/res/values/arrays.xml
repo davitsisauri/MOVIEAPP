@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="array_entries_sort">
+        <item>@string/pref_sort_order_label_popularity</item>
+        <item>@string/pref_sort_order_label_high_rated</item>
+        <item>@string/pref_sort_order_label_favorites</item>
+    </string-array>
+
+    <string-array name="array_entryvalues_sort">
+        <item>@string/pref_sort_order_popularity</item>
+        <item>@string/pref_sort_order_high_rated</item>
+        <item>@string/pref_sort_order_favorites</item>
+    </string-array>
+
+
+</resources>

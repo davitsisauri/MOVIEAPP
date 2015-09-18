@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000</color>
+
+    <color name="colorPrimary">#424242</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="textColorPrimary">#424242</color>
+    <color name="textColorPrimaryInverse">#000000</color>
+    <color name="windowBackground">#E0E0E0</color>
+    <color name="navigationBarColor">#000000</color>
+</resources>
